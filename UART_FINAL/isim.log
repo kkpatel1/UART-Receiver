@@ -1,0 +1,31 @@
+ command line:
+   E:\Programs\VHDL\UART_FINAL\Test_TBW_tbxr.exe
+     -intstyle  ise
+     -tclbatch  genExpectedResults.cmd
+
+Tue Apr 15 20:27:26 2014
+
+Total Line Count = 847
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 90.8984 Meg. 
+
+ Total signals 22
+ Total nets 44
+ Total signal drivers 13
+ Total blocks 8
+ Total primitive blocks 1
+ Total processes 5
+isim batch on 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+quit 
+
+ Simulation time 0.046875 sec.
+
+ Estimate current memory usage 99.1109 Meg. 
+
+Tue Apr 15 20:27:26 2014
+
